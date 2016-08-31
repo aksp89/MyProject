@@ -3,6 +3,11 @@
 int addNum(int a,int b){
 return a+b;
 }
+
+int subtractNum(int a,int b){
+return a-b;
+}
+
 void main(){
 int num1,num2,result;
 
